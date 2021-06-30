@@ -186,6 +186,8 @@ export default {
     }
 
     th {
+        padding-left: 5px;
+        padding-right: 5px;
         background-color: #345980;
         color: white;
     }
