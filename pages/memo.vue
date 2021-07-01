@@ -5,13 +5,13 @@
             <tr>
                 <th>Title</th>
                 <td><input type="text" name="title"
-                class="title" size="40"
+                class="title"
                 v-model="title" @focus="set_flg">
                 <button @click="find">find</button></td>
             </tr>
             <tr>
                 <th>Memo</th>
-                <td><textarea name="content" id="" cols="50" rows="5" 
+                <td><textarea name="content"  
                 v-model="content" class="content"></textarea></td>
             </tr>
             <tr>
