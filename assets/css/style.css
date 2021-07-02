@@ -67,7 +67,7 @@ input[type="text"] {
 
 textarea {
     width: 400px;
-    min-height: 10rem;
+    min-height: 15rem;
 }
 
 td {
